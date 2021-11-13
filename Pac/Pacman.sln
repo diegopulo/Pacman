@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b570db40-d049-bed3-18d8-f28cbb156472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Demos", "PhotonUnityNetworking.Demos.csproj", "{15d0848e-78b3-755d-6f86-bf0c17c555b4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonRealtime", "PhotonRealtime.csproj", "{31bc4200-5530-0aef-b027-5e2695f9b293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking", "PhotonUnityNetworking.csproj", "{cf0468c4-4aff-10f1-8c77-83273674955f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Utilities", "PhotonUnityNetworking.Utilities.csproj", "{b876749c-5695-994e-dc44-83db0b930c4c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonChat", "PhotonChat.csproj", "{dc89ba46-bab0-2518-46f5-09714869a3df}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Editor", "PhotonUnityNetworking.Editor.csproj", "{27d0f99c-5547-2789-a29f-d7a4f044df3c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Utilities.PhotonPlayer.Editor", "PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj", "{37905ce9-dcfa-571b-536d-c5fc82643905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PunDemos.DemoSlotcarEditor", "PunDemos.DemoSlotcarEditor.csproj", "{a04fa257-ee27-2708-5e2e-396e428af7b2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Utilities.Culling.Editor", "PhotonUnityNetworking.Utilities.Culling.Editor.csproj", "{f043329b-9573-9c37-a7d7-8086ff832377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PunDemos.DemoHubEditor", "PunDemos.DemoHubEditor.csproj", "{c9b7dc86-3d94-4fef-3651-c491cb3fea19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b570db40-d049-bed3-18d8-f28cbb156472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b570db40-d049-bed3-18d8-f28cbb156472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15d0848e-78b3-755d-6f86-bf0c17c555b4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15d0848e-78b3-755d-6f86-bf0c17c555b4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31bc4200-5530-0aef-b027-5e2695f9b293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31bc4200-5530-0aef-b027-5e2695f9b293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{cf0468c4-4aff-10f1-8c77-83273674955f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{cf0468c4-4aff-10f1-8c77-83273674955f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b876749c-5695-994e-dc44-83db0b930c4c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b876749c-5695-994e-dc44-83db0b930c4c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{dc89ba46-bab0-2518-46f5-09714869a3df}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{dc89ba46-bab0-2518-46f5-09714869a3df}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27d0f99c-5547-2789-a29f-d7a4f044df3c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27d0f99c-5547-2789-a29f-d7a4f044df3c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37905ce9-dcfa-571b-536d-c5fc82643905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37905ce9-dcfa-571b-536d-c5fc82643905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a04fa257-ee27-2708-5e2e-396e428af7b2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a04fa257-ee27-2708-5e2e-396e428af7b2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f043329b-9573-9c37-a7d7-8086ff832377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f043329b-9573-9c37-a7d7-8086ff832377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c9b7dc86-3d94-4fef-3651-c491cb3fea19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c9b7dc86-3d94-4fef-3651-c491cb3fea19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
